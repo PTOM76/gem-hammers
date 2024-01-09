@@ -1,2 +1,2 @@
-# Storage Box (Fabric)
-https://www.curseforge.com/minecraft/mc-mods/gemhammers-fabric
+# Gem Hammers
+https://www.curseforge.com/minecraft/mc-mods/gem-hammers
