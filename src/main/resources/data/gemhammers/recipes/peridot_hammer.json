@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "b": {
+      "item": "c:peridot_blocks"
+    },
+    "i": {
+      "item": "c:peridots"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gemhammers:peridot_hammer"
+  }
+}

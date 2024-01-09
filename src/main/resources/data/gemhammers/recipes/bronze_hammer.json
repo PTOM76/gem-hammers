@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "b": {
+      "item": "c:bronze_blocks"
+    },
+    "i": {
+      "item": "c:bronze_ingots"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gemhammers:bronze_hammer"
+  }
+}

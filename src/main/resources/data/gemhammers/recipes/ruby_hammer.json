@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "b": {
+      "item": "c:ruby_blocks"
+    },
+    "i": {
+      "item": "c:rubies"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gemhammers:ruby_hammer"
+  }
+}

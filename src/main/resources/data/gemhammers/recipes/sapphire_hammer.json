@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "b": {
+      "item": "c:sapphire_blocks"
+    },
+    "i": {
+      "item": "c:sapphires"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gemhammers:sapphire_hammer"
+  }
+}
